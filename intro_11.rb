@@ -1,5 +1,5 @@
 def say_goodnight(name)
-	result = "Good night , #{name.capitalize}"
+	result = "Good night, #{name.capitalize}"
 	return result
 end
 
