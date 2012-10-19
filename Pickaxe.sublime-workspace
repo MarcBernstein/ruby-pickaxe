@@ -1,0 +1,450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"na",
+				"name"
+			],
+			[
+				"n",
+				"now  (function)"
+			],
+			[
+				"ti",
+				"TITLE	Tag"
+			],
+			[
+				"bo",
+				"BODY	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/marc4390/Desktop/Viewer/App Daily Build Email Content",
+			"settings":
+			{
+				"buffer_size": 1112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/marc4390/Desktop/Viewer/App Daily Build Script.bash",
+			"settings":
+			{
+				"buffer_size": 3654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "intro_10.rb",
+			"settings":
+			{
+				"buffer_size": 101,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "intro_11.rb",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"ruby",
+				"Snippet: #!/usr/bin/env ruby -wKU"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"git ci",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/marc4390/Projects/ruby-pickaxe/intro_5.rb",
+		"/Users/marc4390/Projects/ruby-pickaxe/intro_10.rb",
+		"/Users/marc4390/Projects/ruby/myprog.rb",
+		"/Users/marc4390/Projects/ruby/intro_6.rb",
+		"/Users/marc4390/arcgis_scheme_webmap_links.html",
+		"/usr/local/Library/Taps/phinze-cask/lib/cask/dsl.rb",
+		"/Users/marc4390/Desktop/Viewer/arcgis_scheme_webmap_links.html",
+		"/Users/marc4390/Desktop/App Daily Build Script.bash",
+		"/Users/marc4390/Desktop/App Daily Build Email Content",
+		"/Users/marc4390/Desktop/arcgis_scheme_webmap_links.html",
+		"/Users/marc4390/Desktop/layout_tablet.xml",
+		"/Users/marc4390/git/ArcGISViewer/ArcGISViewer/tablet",
+		"/Users/marc4390/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/marc4390/bin/brew_rm_deps",
+		"/Users/marc4390/git/ArcGISViewer2/ArcGISViewer/src/com/esri/arcgis/viewer/views/mapresults/FeatureListAdapter.java",
+		"/Users/marc4390/git/ArcGISViewer2/ArcGISViewer/src/com/esri/arcgis/viewer/views/mapresults/MapResultView.java",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/values/themes.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/values/dimens.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/values/colors.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/values/attrs.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/values/arrays.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/values/strings.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_dropdown_hint.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_dropdown_item_1line.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_dropdown_item_2line.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_expandable_list_item_1.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_expandable_list_item_2.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_gallery_item.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_list_item_1.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_list_item_2.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_list_item_2_single_choice.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_list_item_activated_1.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_list_item_activated_2.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_list_item_checked.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_list_item_multiple_choice.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_list_item_single_choice.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_selectable_list_item.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_spinner_dropdown_item.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/simple_spinner_item.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/list_content.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/list_content_simple.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/list_gestures_overlay.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/list_menu_item_checkbox.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/list_menu_item_icon.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/list_menu_item_layout.xml",
+		"/Users/marc4390/Applications/android-sdk-mac_x86/platforms/android-16/data/res/layout/list_menu_item_radio.xml",
+		"/Users/marc4390/Downloads/vimrc",
+		"/Users/marc4390/.vimrc",
+		"/Users/marc4390/Projects/clojure/helloworld/src/demo/web.clj",
+		"/Users/marc4390/Projects/clojure/helloworld/project.clj",
+		"/Users/marc4390/Desktop/arcgis scheme webmap links.html",
+		"/Users/marc4390/Downloads/theme-3.xml",
+		"/Users/marc4390/Downloads/theme-21.xml",
+		"/Users/marc4390/Downloads/theme-1.xml",
+		"/Users/marc4390/Downloads/theme-1013.xml",
+		"/Users/marc4390/Downloads/theme-2.xml",
+		"/Users/marc4390/Downloads/theme-1115.xml",
+		"/Users/marc4390/BuildFuncs.sh",
+		"/usr/local/etc/bash_completion.d/git-completion.bash",
+		"/Users/marc4390/.bash_profile",
+		"/Users/marc4390/.bash_functions",
+		"/usr/local/etc/bash_completion.d/git-prompt.sh",
+		"/Users/marc4390/Desktop/CSF Portal",
+		"/Users/marc4390/Desktop/basemap_info_dialog_fragment.xml",
+		"/Users/marc4390/Projects/TeX/simple.tex",
+		"/Users/marc4390/Projects/TeX/simple1.tex",
+		"/Users/marc4390/Projects/TeX/assignment_3.tex",
+		"/Users/marc4390/Desktop/Comparator Test.java",
+		"/Users/marc4390/Downloads/HW1_MarcBernstein.synctex",
+		"/Users/marc4390/Projects/TestCpp/TestCpp/Magnitude.cpp",
+		"/Users/marc4390/Downloads/ESRI_IntensiveC++/Solutions/01_Basics/03_Pi/Pi.cpp",
+		"/Users/marc4390/Projects/TestCpp/TestCpp/Test.cpp",
+		"/Users/marc4390/Library/Application Support/Sublime Text 2/Packages/User/Default (Linux).sublime-keymap",
+		"/Users/marc4390/git/ArcGISViewer/ArcGISViewer/assets/CascoFerries.map",
+		"/Users/marc4390/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/marc4390/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/marc4390/.gitconfig",
+		"/Users/marc4390/git/ArcGISViewer/.git/config",
+		"/Users/marc4390/git/ArcGISViewer/ArcGISViewer/project.properties",
+		"/Users/marc4390/MotDriverCleaner_Log.txt",
+		"/Users/marc4390/Downloads/ESRI_IntensiveC++/Solutions/01_Basics/02_Magnitude/Magnitude.cpp",
+		"/Users/marc4390/Downloads/ESRI_IntensiveC++/Solutions/01_Basics/01_Characters/Characters.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<<<",
+			">>>",
+			"<<",
+			"backsp",
+			"number",
+			"s",
+			"vinta"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/marc4390/Desktop/Viewer/App Daily Build Email Content",
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1112,
+								1112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/marc4390/Desktop/Viewer/App Daily Build Script.bash",
+					"settings":
+					{
+						"buffer_size": 3654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2226,
+								2226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "intro_10.rb",
+					"settings":
+					{
+						"buffer_size": 101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "intro_11.rb",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true
+}
